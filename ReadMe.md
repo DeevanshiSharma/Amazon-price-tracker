@@ -1,5 +1,5 @@
 # Amazon price tracker\python
- Amazon product price tracker using Python & beautiful soup takes user input (URL of the product), fetches the price of that product from Amazon, and notifies via email.
+
 
 Amazon product price tracker in python language scrapes the price of a product from the URL provided and notifies the user via email in real-time. 
 
