@@ -8,5 +8,6 @@ Some packages used are Beautiful Soup (bs4), Requests, DateTime, and smtplib.
 If you have these packages already installed you are good to go. Otherwise, you can simply install these packages using the following command:
 
 $ pip install package-name
+
 After that you can implement the code and you are good to go.
 Good luck!
