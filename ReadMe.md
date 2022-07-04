@@ -20,7 +20,4 @@ If you have these packages already installed you are good to go. Otherwise, you 
 pip install package-name
 Now, just implement the code and you are good to go :)
 
-After executing the code, the output on the terminal should look something like this:
- ![image](https://user-images.githubusercontent.com/87795451/142896772-1110804c-9be2-40bc-8b83-bafcd72cef77.png)
-
 Good luck!
